@@ -238,8 +238,7 @@ footer{
   display: flex;
   justify-content: space-between;
 }
-.footer-info{
-}
+
 .footer-text{
   display: flex;
   flex-direction: row;
@@ -374,8 +373,6 @@ footer{
     width: 80%;
     display: flex;
     justify-content: space-between;
-  }
-  .footer-info{
   }
   .footer-text{
     display: flex;
